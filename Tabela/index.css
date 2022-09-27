@@ -1,0 +1,64 @@
+.td1{
+    font-family: 'Montserrat', sans-serif;
+    color: black;
+}
+
+* body{
+    text-align: center;
+}
+
+*{
+    margin: 0 auto;
+}
+
+.divline{
+    clear: both;
+}
+
+.titlesession{
+    font-size: 30px;
+    padding: 10px;
+}
+
+#classificacao{
+    width: 50%;
+}
+
+#fotologo{
+    margin-top: 20px;
+    height: 60px;
+    width: 180px;
+}
+
+#texthead{
+  margin-top: 20px;
+} 
+
+#pilotos{
+    font-size: 20px;
+}
+
+#tableclass{
+    width: 100%;
+    background-color: #ee000030;
+}
+
+table, td, th{
+    border-bottom: solid 2px #ffffff;
+    border-collapse: collapse;
+}
+
+#um{
+    background-color: rgb(62, 62, 62);
+    clip-path: polygon(0 0%, 050% 100%, 100% 100%, 50% 2%);
+}
+
+#dois{
+    background-color: rgb(122, 122, 122);
+    clip-path: polygon(0 0%, 050% 100%, 100% 100%, 50% 2%);
+}
+
+#tres{
+    background-color: rgb(142, 142, 142);
+    clip-path: polygon(0 0%, 050% 100%, 100% 100%, 50% 2%);
+}
